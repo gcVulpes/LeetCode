@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0fff56e-9f59-4b49-a181-b2a1ff7129ee" name="Default Changelist" comment="cache">
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/algorithms/easy/scrap/JewelsAndStones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/algorithms/easy/scrap/MajorityElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/algorithms/normal/BasicCalculator_II.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/algorithms/scrap/JewelsAndStones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/algorithms/scrapT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/algorithms/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java" afterDir="false" />
     </list>
     <list id="a089a56c-641f-43e7-86c0-b75fcabb17e3" name="test" comment="cache">
       <changelist_data name="郭小川" email="gcatml@gmail.com" date="1546569951000" />
@@ -70,54 +72,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7854" />
+          <entry key="java" value="9525" />
           <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7854" />
+          <entry key="JAVA" value="9525" />
           <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="18" />
+          <entry key="java" value="22" />
           <entry key="java~HEAD" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.delete.local" value="1" />
+          <entry key="git.branch.delete.remote" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/normal/BasicCalculator_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-149">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#calculate#0;class#BasicCalculator_II#0" />
-                <element signature="method#getString#0;class#BasicCalculator_II#0" />
-                <element signature="method#calculateList#0;class#BasicCalculator_II#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/easy/scrap/MajorityElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-155">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="368">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#majorityElement#0;class#MajorityElement#0" />
@@ -127,11 +121,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/easy/scrap/JewelsAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="379">
               <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/te.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -168,13 +180,14 @@
         <option value="$PROJECT_DIR$/src/algorithms/scrap/JewelsAndStones.java" />
         <option value="$PROJECT_DIR$/src/algorithms/scrap/MajorityElement.java" />
         <option value="$PROJECT_DIR$/src/algorithms/easy/scrap/MajorityElement.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java" />
         <option value="$PROJECT_DIR$/test/testPaper.java" />
         <option value="$PROJECT_DIR$/test/NumDemo(2).java" />
         <option value="$PROJECT_DIR$/test/NumDemo.java" />
         <option value="$PROJECT_DIR$/test/test.java" />
         <option value="$PROJECT_DIR$/test/tt.java" />
         <option value="$PROJECT_DIR$/src/algorithms/normal/BasicCalculator_II.java" />
+        <option value="$PROJECT_DIR$/test/te.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java" />
       </list>
     </option>
   </component>
@@ -482,20 +495,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tt">
+  <component name="RunManager" selected="Application.Minimum_Index_Sum_of_Two_Lists">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicCalculator_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.normal.BasicCalculator_II" />
+    <configuration name="Minimum_Index_Sum_of_Two_Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.easy.scrap.Minimum_Index_Sum_of_Two_Lists" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.normal.*" />
+          <option name="PATTERN" value="algorithms.easy.scrap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -509,16 +522,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="te" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="te" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testPaper" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -568,19 +581,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.testPaper" />
-      <item itemvalue="Application.BasicCalculator_II" />
       <item itemvalue="Application.test" />
       <item itemvalue="JUnit.NumDemo.num" />
       <item itemvalue="Application.tt" />
+      <item itemvalue="Application.Minimum_Index_Sum_of_Two_Lists" />
+      <item itemvalue="Application.te" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Index_Sum_of_Two_Lists" />
+        <item itemvalue="Application.te" />
         <item itemvalue="Application.tt" />
         <item itemvalue="JUnit.NumDemo.num" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.BasicCalculator_II" />
-        <item itemvalue="Application.testPaper" />
       </list>
     </recent_temporary>
   </component>
@@ -661,14 +674,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53700000" />
+    <option name="totallyTimeSpent" value="58276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.21736011" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.21173105" />
+      <window_info id="Structure" order="1" sideWeight="0.5014006" side_tool="true" weight="0.21173105" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Palette&#9;" order="4" />
@@ -677,18 +690,18 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64735335" weight="0.2847769" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49569583" weight="0.28346458" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64735335" weight="0.18897638" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49569583" visible="true" weight="0.115485564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35264665" side_tool="true" weight="0.24146982" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.41416308" side_tool="true" weight="0.27821523" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.4222973" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" sideWeight="0.49067432" visible="true" weight="0.23097113" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49067432" weight="0.23097113" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.14041995" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.5858369" weight="0.3175853" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32939634" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" weight="0.32939634" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
@@ -750,6 +763,12 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -782,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/util/DisabledAlgorithmConstraints.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -803,18 +815,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/NumDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="104" column="62" lean-forward="true" selection-start-line="104" selection-start-column="62" selection-end-line="104" selection-end-column="62" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="method#getResult#0;class#NumDemo#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/NumDemo.java" />
     <entry file="jar://$PROJECT_DIR$/jar/commons-lang3-3.8.1.jar!/org/apache/commons/lang3/StringUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -835,37 +836,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
-          <caret line="35" column="67" lean-forward="true" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/testPaper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="54" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/tt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.java" />
+    <entry file="file://$PROJECT_DIR$/test/testPaper.java" />
+    <entry file="file://$PROJECT_DIR$/test/tt.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithms/easy/scrap/MajorityElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="368">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#majorityElement#0;class#MajorityElement#0" />
@@ -878,6 +855,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/te.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/easy/scrap/Minimum_Index_Sum_of_Two_Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
         </state>
       </provider>
     </entry>
