@@ -6,7 +6,7 @@ import java.util.*;
  * Created by kadokawa
  * Date 16:47 7/1/2019
  */
-public class Minimum_Index_Sum_of_Two_Lists {
+public class MinimumIndexSumOfTwoLists {
 
     /*
         假设Andy和Doris想在晚餐时选择一家餐厅，并且他们都有一个表示最喜爱餐厅的列表，每个餐厅的名字用字符串表示。
@@ -34,7 +34,6 @@ public class Minimum_Index_Sum_of_Two_Lists {
      */
 
     public static void main(String[] args) {
-    //  String[] list1 = new String[]{"k","KFC"};
     //  String[] list2 = new String[]{"k","KFC"};
         String[] list1 = new String[]{"Shogun","Tapioca Express","Burger King","KFC"};
         String[] list2 = new String[]{"Piatti","The Grill at Torrey Pines","Hungry Hunter Steakhouse","Shogun"};
